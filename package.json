@@ -1,5 +1,5 @@
 {
-    "name": "vue-flip-toolkit",
+    "name": "@hjbdev/vue-flip-toolkit",
     "files": [
         "dist"
     ],
@@ -11,8 +11,7 @@
             "require": "./dist/vue-flip-toolkit.umd.js"
         }
     },
-    "private": true,
-    "version": "0.0.0",
+    "version": "2.0.0",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
